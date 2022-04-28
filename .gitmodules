@@ -1,0 +1,6 @@
+[submodule "collections/ansible-collection-jumpcloud"]
+	path = collections/ansible-collection-jumpcloud
+	url = https://github.com/veloslab/ansible-collection-jumpcloud.git
+[submodule "collections/ansible-collection-alerta"]
+	path = collections/ansible-collection-alerta
+	url = https://github.com/veloslab/ansible-collection-alerta.git
