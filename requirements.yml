@@ -2,3 +2,4 @@
 collections:
   - name: git+https://github.com/veloslab/ansible-collection-alerta.git
   - name: git+https://github.com/veloslab/ansible-collection-jumpcloud.git
+  - name: community.hashi_vault
