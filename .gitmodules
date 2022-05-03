@@ -4,3 +4,6 @@
 [submodule "collections/ansible-collection-alerta"]
 	path = collections/ansible-collection-alerta
 	url = https://github.com/veloslab/ansible-collection-alerta.git
+[submodule "collections/ansible-collection-hashicorp"]
+	path = collections/ansible-collection-hashicorp
+	url = git@github.com:veloslab/ansible-collection-hashicorp.git
