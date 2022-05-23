@@ -7,3 +7,6 @@
 [submodule "collections/ansible-collection-hashicorp"]
 	path = collections/ansible-collection-hashicorp
 	url = git@github.com:veloslab/ansible-collection-hashicorp.git
+[submodule "collections/ansible-collection-base"]
+	path = collections/ansible-collection-base
+	url = git@github.com:veloslab/ansible-collection-base.git

@@ -3,4 +3,5 @@ collections:
   - name: git+https://github.com/veloslab/ansible-collection-alerta.git
   - name: git+https://github.com/veloslab/ansible-collection-jumpcloud.git
   - name: git+https://github.com/veloslab/ansible-collection-hashicorp.git
+  - name: git+https://github.com/veloslab/ansible-collection-base.git
   - name: community.hashi_vault
